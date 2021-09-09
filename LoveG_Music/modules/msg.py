@@ -5,7 +5,7 @@ from LoveG_Music.config import PROJECT_NAME
 from LoveG_Music.config import SUPPORT_GROUP
 from LoveG_Music.config import UPDATES_CHANNEL
 class Messages():
-      START_MSG = "**Hello 👋 [{}](tg://user?id={})!**\n\n🤖 I am an advanced bot created for playing music in the voice chats of Telegram Groups & Channels.\n\n✅ Send me /help for more info.\n\n Join @BOT_LAB_Ch"
+      START_MSG = "**Hello 👋 [{}](tg://user?id={})!**\n\n🤖 I am an advanced bot created for playing music in the voice chats of Telegram Groups & Channels.\n\n✅ Send me /help for more info.\n\n Join @hindigroup1326"
       HELP_MSG = [
         ".",
 f"""
