@@ -36,7 +36,7 @@ Made with Python3
 
 - Get BOT TOKEN from here:  [![Get Bot Token from BotFather](https://img.shields.io/badge/Bot__-Token-blue)](https://t.me/BotFather)
 
-- Get UDO USERS from here:  [![Get Sudo Users Id](https://img.shields.io/badge/Sudo__-USERS-blue)](https://t.me/MissRose_bot) [massages /id]
+- Get UDO USERS from here:  [![Get Sudo Users Id](https://img.shields.io/badge/Sudo__-USERS-blue)](https://t.me/MissRose_bot)[massages /id]
 
 - Get STRING_NAME from here:  [![GenerateString](https://img.shields.io/badge/Replit.-Generate%20String-yellow)](https://replit.com/@Botkong/LoveGMusic?v=1)
 
